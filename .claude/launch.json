@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "resumatch",
+      "cwd": "/Users/wesson/Desktop/www/resumatch",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"],
+      "port": 5173,
+      "env": {
+        "PATH": "/Users/wesson/.nvm/versions/node/v22.13.0/bin:/usr/local/bin:/usr/bin:/bin"
+      }
+    }
+  ]
+}
