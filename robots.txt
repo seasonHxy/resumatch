@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seasonhxy.github.io/resumatch/sitemap.xml
